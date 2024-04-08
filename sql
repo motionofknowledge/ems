@@ -1,6 +1,6 @@
 CREATE DATABASE employee_management;
 
-USE USE my_database;;
+USE employee_management;
 
 CREATE TABLE employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
